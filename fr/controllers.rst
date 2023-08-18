@@ -195,7 +195,7 @@ rapide d'affecter en une seule fois un jeu complet d'informations à la vue::
     $this->set($data);
 
 Gardez à l'esprit que les variables de vue sont partagées entre toutes les parties rendues par votre vue.
-Elles seront disponibles dans toutes les parties de la vue: le modèle, la mise en page et tous les éléments
+Elles seront disponibles dans toutes les parties de la vue: le template, le layout et tous les éléments
 à l'intérieur des deux premiers.
 
 Définir les Options d'une View
